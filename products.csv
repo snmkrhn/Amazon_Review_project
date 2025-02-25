@@ -1,0 +1,52 @@
+product_id,product_name,category,description,image_url,sentiment
+B001E4KFG0,High-Quality Dog Food,Pet Supplies,A nutritious dog food made with natural ingredients,http://example.com/dog_food.jpg,Positive
+B001E4KFG1,Organic Cat Food,Pet Supplies,A premium cat food with organic ingredients,http://example.com/cat_food.jpg,Positive
+B001E4KFG2,Premium Bird Seed,Pet Supplies,Nutritious bird seed for all bird types,http://example.com/bird_seed.jpg,Positive
+B001E4KFG3,Smart TV 55 inch,Electronics,4K Ultra HD Smart TV with voice control,http://example.com/smart_tv.jpg,Positive
+B001E4KFG4,Wireless Bluetooth Speaker,Electronics,Portable speaker with deep bass and clear sound,http://example.com/speaker.jpg,Positive
+B001E4KFG5,Gaming Laptop,Electronics,High-performance laptop for gamers and creators,http://example.com/gaming_laptop.jpg,Positive
+B001E4KFG6,Non-Stick Frying Pan,Kitchen,Durable and easy-to-clean frying pan,http://example.com/nonstick_pan.jpg,Positive
+B001E4KFG7,Coffee Maker,Kitchen,Automatic drip coffee maker for fresh coffee every morning,http://example.com/coffee_maker.jpg,Positive
+B001E4KFG8,Air Fryer,Kitchen,Healthy cooking with little to no oil,http://example.com/air_fryer.jpg,Positive
+B001E4KFG9,Double Bed Frame,Furniture,Modern double bed frame with storage space,http://example.com/bed_frame.jpg,Positive
+B001E4KFG10,Office Desk,Furniture,Spacious and stylish desk for office and home use,http://example.com/office_desk.jpg,Positive
+B001E4KFG11,Leather Sofa,Furniture,Comfortable leather sofa with sleek design,http://example.com/sofa.jpg,Positive
+B001E4KFG12,Men's Running Shoes,Sportswear,Breathable and lightweight running shoes,http://example.com/mens_shoes.jpg,Positive
+B001E4KFG13,Woman's Yoga Pants,Sportswear,High-waist yoga pants with stretch fabric,http://example.com/yoga_pants.jpg,Positive
+B001E4KFG14,Treadmill,Sports Equipment,Compact treadmill for home workouts,http://example.com/treadmill.jpg,Positive
+B001E4KFG15,Football Jersey,Sportswear,Official club jersey made of moisture-wicking fabric,http://example.com/football_jersey.jpg,Positive
+B001E4KFG16,Camping Tent,Outdoor Gear,Waterproof tent for camping adventures,http://example.com/camping_tent.jpg,Positive
+B001E4KFG17,Portable Cooler,Outdoor Gear,Keep your drinks cold for long hours,http://example.com/portable_cooler.jpg,Positive
+B001E4KFG18,Hiking Backpack,Outdoor Gear,Lightweight and spacious backpack for hikers,http://example.com/hiking_bag.jpg,Positive
+B001E4KFG19,LED Desk Lamp,Office Supplies,Energy-efficient desk lamp with adjustable brightness,http://example.com/led_lamp.jpg,Positive
+B001E4KFG20,Ergonomic Office Chair,Office Supplies,Comfortable chair designed for long working hours,http://example.com/office_chair.jpg,Positive
+B001E4KFG21,Stationery Organizer,Office Supplies,Stylish desk organizer for office stationery,http://example.com/organizer.jpg,Positive
+B001E4KFG22,Facial Cleanser,Beauty,A gentle cleanser for all skin types,http://example.com/facial_cleanser.jpg,Positive
+B001E4KFG23,Moisturizing Cream,Beauty,Deep hydration cream with natural extracts,http://example.com/cream.jpg,Positive
+B001E4KFG24,Lipstick Set,Beauty,Long-lasting lipstick in multiple shades,http://example.com/lipstick.jpg,Positive
+B001E4KFG25,Vitamin C Serum,Beauty,Anti-aging serum with Vitamin C,http://example.com/serum.jpg,Positive
+B001E4KFG26,Skinny Jeans,Clothing,Stylish and stretchable skinny jeans,http://example.com/skinny_jeans.jpg,Positive
+B001E4KFG27,Casual T-Shirt,Clothing,Comfortable cotton t-shirt for daily wear,http://example.com/tshirt.jpg,Positive
+B001E4KFG28,Leather Jacket,Clothing,Premium quality leather jacket for men,http://example.com/leather_jacket.jpg,Positive
+B001E4KFG29,Women's Sunglasses,Accessories,Stylish sunglasses with UV protection,http://example.com/sunglasses.jpg,Positive
+B001E4KFG30,Leather Handbag,Accessories,Classic leather handbag for women,http://example.com/handbag.jpg,Positive
+B001E4KFG31,Wrist Watch,Accessories,Stainless steel wrist watch for men,http://example.com/wrist_watch.jpg,Positive
+B001E4KFG32,Baby Stroller,Baby Products,Lightweight and foldable stroller for infants,http://example.com/baby_stroller.jpg,Positive
+B001E4KFG33,Diaper Bag,Baby Products,Spacious bag with multiple compartments,http://example.com/diaper_bag.jpg,Positive
+B001E4KFG34,Crib Mattress,Baby Products,Soft and safe mattress for cribs,http://example.com/crib_mattress.jpg,Positive
+B001E4KFG35,Board Game Set,Toys & Games,A collection of fun family board games,http://example.com/board_games.jpg,Positive
+B001E4KFG36,Remote Control Car,Toys & Games,High-speed RC car for kids and adults,http://example.com/rc_car.jpg,Positive
+B001E4KFG37,Doll House,Toys & Games,Beautiful and detailed wooden dollhouse,http://example.com/doll_house.jpg,Positive
+B001E4KFG38,Cooking Playset,Toys & Games,Interactive kitchen playset for kids,http://example.com/playset.jpg,Positive
+B001E4KFG39,Smartphone Stand,Electronics,Adjustable stand for smartphones and tablets,http://example.com/phone_stand.jpg,Positive
+B001E4KFG40,Robot Vacuum Cleaner,Home Appliances,Automatic vacuum for cleaning floors,http://example.com/vacuum.jpg,Positive
+B001E4KFG41,Electric Kettle,Home Appliances,Fast boiling kettle with auto shut-off,http://example.com/kettle.jpg,Positive
+B001E4KFG42,Smart Thermostat,Home Automation,Control your home temperature remotely,http://example.com/thermostat.jpg,Positive
+B001E4KFG43,Air Purifier,Home Appliances,Removes allergens and pollutants from air,http://example.com/air_purifier.jpg,Positive
+B001E4KFG44,Smart Door Lock,Home Automation,Secure and keyless entry for your home,http://example.com/door_lock.jpg,Positive
+B001E4KFG45,Pressure Washer,Garden Supplies,Efficient cleaning tool for outdoor surfaces,http://example.com/pressure_washer.jpg,Positive
+B001E4KFG46,Leaf Blower,Garden Supplies,Powerful leaf blower for yard cleanup,http://example.com/leaf_blower.jpg,Positive
+B001E4KFG47,Garden Tool Set,Garden Supplies,Complete set of tools for gardening,http://example.com/garden_tools.jpg,Positive
+B001E4KFG48,Car Jump Starter,Automotive,Portable jump starter with power bank feature,http://example.com/jump_starter.jpg,Positive
+B001E4KFG49,Tire Inflator,Automotive,Fast and portable tire inflator for cars,http://example.com/tire_inflator.jpg,Positive
+B001E4KFG50,Dash Cam,Automotive,Full HD dash cam for car safety and recording,http://example.com/dash_cam.jpg,Positive 
